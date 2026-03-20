@@ -11,6 +11,7 @@ Animated explainer videos built with [Manim](https://www.manim.community/), gene
 | [FORCE Explainer](force-explainer/) | FORCE fNIRS Processing Pipeline | ~5 min | [mp4](force-explainer/media/FORCE_Complete_Explainer.mp4) |
 | [Lie Algebra](lie-algebra/) | Lie Groups and Algebras | ~2 min | [mp4](lie-algebra/media/Lie_Groups_and_Algebras.mp4) |
 | [Process Analysis](process-analysis/) | Operations Process Analysis | ~3 min | [mp4](process-analysis/media/Process_Analysis.mp4) |
+| [Solar Panel Delamination](solar-panel-delamination/) | Mechanical delamination methods | 2:20 | [mp4](solar-panel-delamination/media/Solar_Panel_Delamination.mp4) |
 | [Runway Bitumen](lnt-runway-bitumen/) | Performance Grade Bitumen for Airport Runways | 3:40 | [mp4](lnt-runway-bitumen/media/LnT_Performance_Grade_Bitumen_Final.mp4) |
 
 ## Pipeline
