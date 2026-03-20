@@ -1,0 +1,5 @@
+file '/Users/amit/Projects/manim-attention/media/videos/s01_hook/720p30/Hook.mp4'
+file '/Users/amit/Projects/manim-attention/media/videos/s01_hook/720p30/Problem.mp4'
+file '/Users/amit/Projects/manim-attention/media/videos/s02_attention/720p30/Attention.mp4'
+file '/Users/amit/Projects/manim-attention/media/videos/s03_architecture/720p30/Architecture.mp4'
+file '/Users/amit/Projects/manim-attention/media/videos/s04_results/720p30/ResultsAndTakeaway.mp4'

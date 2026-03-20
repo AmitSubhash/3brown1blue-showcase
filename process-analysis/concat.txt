@@ -1,0 +1,8 @@
+file 'media/videos/scene_01_process/720p30/WhatIsAProcess.mp4'
+file 'media/videos/scene_02_metrics/720p30/TheThreeMetrics.mp4'
+file 'media/videos/scene_03_littles_law/720p30/LittlesLaw.mp4'
+file 'media/videos/scene_04_flow_diagram/720p30/ProcessFlowDiagram.mp4'
+file 'media/videos/scene_05_bottleneck/720p30/TheBottleneck.mp4'
+file 'media/videos/scene_06_utilization/720p30/UtilizationAndWaiting.mp4'
+file 'media/videos/scene_07_optimization/720p30/OptimizationTechniques.mp4'
+file 'media/videos/scene_08_recap/720p30/Recap.mp4'
