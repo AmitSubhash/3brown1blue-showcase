@@ -2,10 +2,13 @@
 
 Animated explainer videos built with [Manim](https://www.manim.community/), generated using the [`3brown1blue`](https://pypi.org/project/3brown1blue/) skill package.
 
+**Updated:** 2026-03-22 | **3brown1blue version:** v0.2.3
+
 ## Projects
 
 | Project | Topic | Duration | Video |
 |---------|-------|----------|-------|
+| [Transformer](transformer/) | Attention Is All You Need (Vaswani et al., 2017) -- full 10-scene deep dive | ~8 min | [mp4](transformer/media/Transformer_Explainer.mp4) |
 | [Attention Mechanism](attention-mechanism/) | Attention Is All You Need (Transformers) | ~2 min | [mp4](attention-mechanism/media/Attention_Is_All_You_Need.mp4) |
 | [DOT Explainer](dot-explainer/) | Diffuse Optical Tomography | ~5 min | [mp4](dot-explainer/media/DOT_Complete_Explainer.mp4) |
 | [FORCE Explainer](force-explainer/) | FORCE fNIRS Processing Pipeline | ~5 min | [mp4](force-explainer/media/FORCE_Complete_Explainer.mp4) |
